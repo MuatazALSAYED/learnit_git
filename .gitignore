@@ -1,0 +1,5 @@
+.gitingnore
+/bin
+*.class
+.classpath
+
